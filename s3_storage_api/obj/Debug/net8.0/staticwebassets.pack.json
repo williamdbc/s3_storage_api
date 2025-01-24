@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\0badaddf-95c0-4139-8b26-7dbca5af0368___1 (1).jpg",
+      "PackagePath": "staticwebassets\\0badaddf-95c0-4139-8b26-7dbca5af0368___1 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\38e903f4-a7c3-4edd-bbdf-02b112bde218___471751565_953356880007852_5085674895352328692_n.jpg",
+      "PackagePath": "staticwebassets\\38e903f4-a7c3-4edd-bbdf-02b112bde218___471751565_953356880007852_5085674895352328692_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\cc1fce59-b3b8-4206-b2be-01a489ea6846___4cff60bd-e620-438c-92a2-4211c7274769.jpg",
+      "PackagePath": "staticwebassets\\cc1fce59-b3b8-4206-b2be-01a489ea6846___4cff60bd-e620-438c-92a2-4211c7274769.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.s3_storage_api.props",
+      "PackagePath": "build\\s3_storage_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.s3_storage_api.props",
+      "PackagePath": "buildMultiTargeting\\s3_storage_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.s3_storage_api.props",
+      "PackagePath": "buildTransitive\\s3_storage_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.s3_storage_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

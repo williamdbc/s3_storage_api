@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "jaK+0sxscPU9kTdBC+ocxIqOAwh3CAOtVlglBFjYXqA=",
+  "Source": "s3_storage_api",
+  "BasePath": "_content/s3_storage_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "s3_storage_api\\wwwroot",
+      "Source": "s3_storage_api",
+      "ContentRoot": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\",
+      "BasePath": "_content/s3_storage_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\0badaddf-95c0-4139-8b26-7dbca5af0368___1 (1).jpg",
+      "SourceId": "s3_storage_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\",
+      "BasePath": "_content/s3_storage_api",
+      "RelativePath": "0badaddf-95c0-4139-8b26-7dbca5af0368___1 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\0badaddf-95c0-4139-8b26-7dbca5af0368___1 (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\38e903f4-a7c3-4edd-bbdf-02b112bde218___471751565_953356880007852_5085674895352328692_n.jpg",
+      "SourceId": "s3_storage_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\",
+      "BasePath": "_content/s3_storage_api",
+      "RelativePath": "38e903f4-a7c3-4edd-bbdf-02b112bde218___471751565_953356880007852_5085674895352328692_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\38e903f4-a7c3-4edd-bbdf-02b112bde218___471751565_953356880007852_5085674895352328692_n.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\cc1fce59-b3b8-4206-b2be-01a489ea6846___4cff60bd-e620-438c-92a2-4211c7274769.jpg",
+      "SourceId": "s3_storage_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\wwwroot\\",
+      "BasePath": "_content/s3_storage_api",
+      "RelativePath": "cc1fce59-b3b8-4206-b2be-01a489ea6846___4cff60bd-e620-438c-92a2-4211c7274769.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cc1fce59-b3b8-4206-b2be-01a489ea6846___4cff60bd-e620-438c-92a2-4211c7274769.jpg"
+    }
+  ]
+}
