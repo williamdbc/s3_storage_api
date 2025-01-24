@@ -24,5 +24,5 @@ Esta é uma API para upload, download e listagem de arquivos, semelhante ao Amaz
     -F 'file=@path/to/your/file.jpg'
 
 ### 2. **Acessar o arquivo carregado**
-- **URL para acessar o arquivo:** Após o upload do arquivo, ele será armazenado na pasta wwwroot e pode ser acessado diretamente através do caminho da URL. Não é necessário um endpoint GET, basta acessar o arquivo diretamente pela URL.
-- **Exemplo de URL para acessar o arquivo:** http://localhost:5097/{filePath}
+- **URL para acessar o arquivo:** Após o upload do arquivo, ele será armazenado na pasta wwwroot e pode ser acessado diretamente através do caminho da URL. Não é necessário um endpoint, basta acessar o arquivo diretamente pela URL.
+- **Exemplo de URL para acessar o arquivo:** http://localhost:5097/{filePath} onde filePath é o caminho retornado no endpoint de upload do arquivo.
