@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using s3_storage_api.Consants;
 
 namespace s3_storage_api.Controllers;
 
@@ -6,13 +7,11 @@ namespace s3_storage_api.Controllers;
 [Route("api/[controller]")]
 public class StorageController : ControllerBase
 {
-    private const long MaxFileSizeInMegabytes = 5;
-    private readonly string _storagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+    private readonly string _storagePath;
 
-    public StorageController()
+    public StorageController(IWebHostEnvironment env)
     {
-        if (!Directory.Exists(_storagePath))
-            Directory.CreateDirectory(_storagePath);
+        _storagePath = Path.Combine(env.ContentRootPath, AppConstants.StorageDirectory);
     }
 
     [HttpPost("upload")]
@@ -21,8 +20,8 @@ public class StorageController : ControllerBase
         if (file == null || file.Length == 0)
             return BadRequest("File is empty");
 
-        if (file.Length > MaxFileSizeInMegabytes * 1024 * 1024)
-            return BadRequest($"File size exceeds the maximum limit of {MaxFileSizeInMegabytes}MB.");
+        if (file.Length > AppConstants.MaxFileSize)
+            return BadRequest($"File size exceeds the maximum limit of {AppConstants.MaxFileSizeInMegabytes}MB.");
 
         var uuid = Guid.NewGuid().ToString();
         var fileNameModified = $"{uuid}___{file.FileName}";

@@ -1048,22 +1048,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
+      "projectUniqueName": "D:\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
       "projectName": "s3_storage_api",
-      "projectPath": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
+      "projectPath": "D:\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\obj\\",
+      "outputPath": "D:\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1119,7 +1116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\William\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

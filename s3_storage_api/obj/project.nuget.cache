@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rv/BjmRhcx0=",
+  "dgSpecHash": "H4CwfHbc9Co=",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\Downloads\\teste\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\PROJETOS REAIS\\s3_storage_api\\s3_storage_api\\s3_storage_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
